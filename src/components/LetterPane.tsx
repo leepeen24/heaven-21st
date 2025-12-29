@@ -12,7 +12,7 @@ export default function LetterPane() {
       
       <div className="font-handwriting text-4xl text-gray-800 mb-6 leading-relaxed min-h-[60px]">
         <TextType
-          text={["My Dearest Love,", "To my favorite person,", "Happy Birthday!"]}
+          text={["My Dearest Pomo,", "To my favorite person,", "Happy Birthday!"]}
           typingSpeed={100}
           deletingSpeed={50}
           pauseDuration={1500}
